@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="jackson-annotations-2.14.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../jackson-annotations-2.14.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jackson-databind-2.14.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jakarta.enterprise.cdi-api-4.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jakarta.servlet-api-6.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jakarta.ws.rs-api-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../json-20230227.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
